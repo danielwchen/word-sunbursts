@@ -13,12 +13,12 @@ body {
     padding-bottom: 5%;
 }
 
-.ack {
-    font-style: italic;
+p {
+    align-content: center;
 }
 
-.themap {
-    fill-opacity: .5;
+.ack {
+    font-style: italic;
 }
 
 .r-arrow {

@@ -1,3 +1,5 @@
+// Relies heavily on work from http://www.flavoreddelights.com/wp-content/uploads/2010/04/beer-flavor-wheel.jpg and http://bl.ocks.org/metmajer/5480307
+
 var width = 900,
     height = 1000,
     radius = Math.min(width, height) / 2;
@@ -10,7 +12,7 @@ var y = d3.scale.linear()
 
 var color = d3.scale.category20c();
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#word-wheel").append("svg")
     .attr("width", width)
     .attr("height", height)
     .append("g")
