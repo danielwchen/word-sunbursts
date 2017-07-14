@@ -3,107 +3,157 @@
   "children": [
     {
       "word": "Anger",
+      "color": "#f44242",
+      "opac": "1",
       "children": [
         {
           "word": "Hurt",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Embarrassed",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Devastated",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Threatened",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Insecure",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Jealous",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Hateful",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Resentful",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Violated",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Mad",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Furious",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Enraged",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Aggressive",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Provoked",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Hostile",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Frustrated",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Infuriated",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Irritated",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Distant",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Withdrawn",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Suspicious",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Critical",
+          "color": "#f44242",
+          "opac": ".7",
           "children": [
             {
               "word": "Skeptical",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Sarcastic",
+              "color": "#f44242",
+              "opac": ".4",
               "size": 10
             }
           ]
@@ -112,55 +162,81 @@
     },
     {
       "word": "Disgust",
+      "color": "#f4e841",
+      "opac": "1",
       "children": [
         {
           "word": "Disapproval",
+          "color": "#f4e841",
+          "opac": ".7",
           "children": [
             {
               "word": "Judgmental",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Loathing",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Disappointed",
+          "color": "#f4e841",
+          "opac": ".7",
           "children": [
             {
               "word": "Repugnant",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Revolted",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Awful",
+          "color": "#f4e841",
+          "opac": ".7",
           "children": [
             {
               "word": "Revulsion",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Detestable",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Avoidance",
+          "color": "#f4e841",
+          "opac": ".7",
           "children": [
             {
               "word": "Aversion",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Hesitant",
+              "color": "#f4e841",
+              "opac": ".4",
               "size": 10
             }
           ]
@@ -169,81 +245,119 @@
     },
     {
       "word": "Sad",
+      "color": "#41f444",
+      "opac": "1",
       "children": [
         {
           "word": "Guilty",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Remorseful",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Ashamed",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Abandoned",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Ignored",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Victimized",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Despair",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Powerless",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Vulnerable",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Depressed",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Inferior",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Empty",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Lonely",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Abandoned",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Isolated",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Bored",
+          "color": "#41f444",
+          "opac": ".7",
           "children": [
             {
               "word": "Apathetic",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Indifferent",
+              "color": "#41f444",
+              "opac": ".4",
               "size": 10
             }
           ]
@@ -252,107 +366,157 @@
     },
     {
       "word": "Happy",
+      "color": "#f49242",
+      "opac": "1",
       "children": [
         {
           "word": "Optimistic",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Inspired",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Open",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Intimate",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Playful",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Sensative",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Peaceful",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Hopeful",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Loving",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Powerful",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Provocative",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Courageous",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Accepted",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Fulfilled",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Respected",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Proud",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Confident",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Important",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Interested",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Inquisitive",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Amused",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Joyful",
+          "color": "#f49242",
+          "opac": ".7",
           "children": [
             {
               "word": "Estatic",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Liberated",
+              "color": "#f49242",
+              "opac": ".4",
               "size": 10
             }
           ]
@@ -361,55 +525,81 @@
     },
     {
       "word": "Surprise",
+      "color": "#417df4",
+      "opac": "1",
       "children": [
         {
           "word": "Excited",
+          "color": "#417df4",
+          "opac": ".7",
           "children": [
             {
               "word": "Energetic",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Eager",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Amazed",
+          "color": "#417df4",
+          "opac": ".7",
           "children": [
             {
               "word": "Awe",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Astonished",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Confused",
+          "color": "#417df4",
+          "opac": ".7",
           "children": [
             {
               "word": "Perplexed",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Disillusioned",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Startled",
+          "color": "#417df4",
+          "opac": ".7",
           "children": [
             {
               "word": "Dismayed",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Shocked",
+              "color": "#417df4",
+              "opac": ".4",
               "size": 10
             }
           ]
@@ -418,81 +608,119 @@
     },
     {
       "word": "Fear",
+      "color": "#f441df",
+      "opac": "1",
       "children": [
         {
           "word": "Scared",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Terrified",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Frightened",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Anxious",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Overwhelmed",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Worried",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Insecure",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Inadequate",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Inferior",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Submissive",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Worthless",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Insignificant",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Rejected",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Inadequate",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Alienated",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]
         },
         {
           "word": "Humiliated",
+          "color": "#f441df",
+          "opac": ".7",
           "children": [
             {
               "word": "Disrespected",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             },
             {
               "word": "Ridiculed",
+              "color": "#f441df",
+              "opac": ".4",
               "size": 10
             }
           ]

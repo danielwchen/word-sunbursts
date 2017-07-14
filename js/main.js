@@ -36,11 +36,13 @@ d3.json("data/words.json", function(error, root) {
         .attr("d", arc)
         .attr("stroke", "white")
         .attr("stroke-width", 2)
-        .style("fill", function(d) { return color((d.children ? d : d.parent).word); })
-        .on("click", click)
+        .style("fill", function(d) { return d.color; })
+        .style("opacity", function(d) { return d.opac; })
+        .on("click", click);
 
     var text = g.append("text")
         .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
+        .style("font-weight","bold")
         .attr("x", function(d) { return y(d.y); })
         .attr("dx", "6") // margin
         .attr("dy", ".35em") // vertical-align
